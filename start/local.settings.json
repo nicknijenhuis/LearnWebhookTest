@@ -1,9 +1,9 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<STORAGE_CONNECTION_STRING>",
-    "AzureCosmosDBConnectionString": "<COSMOSDB_CONNECTION_STRING>",
-    "AzureCosmosDBMasterKey": "<COSMOSDB_MASTER_KEY>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=mslsigrstorage0dead4e31e;AccountKey=rPmiLTGiWH9vI7SFA5YrokMkGbPmTwOSQZDkU0VeQlRDXOXqS9oAcM1znw3cqFGaXOvOubMfXUmJph6+Abw3jw==",
+    "AzureCosmosDBConnectionString": "AccountEndpoint=https://msl-sigr-cosmos-dce3ca8f8d.documents.azure.com:443/;AccountKey=FMCi6V9pgdovDHDbHGrTUUml2NytDU9qlu0nnfdnRxLFIGrxYbPGYybT0Vo5boWEhjkG2sGbiBDmEegCf3snjw==;",
+    "AzureCosmosDBMasterKey": "FMCi6V9pgdovDHDbHGrTUUml2NytDU9qlu0nnfdnRxLFIGrxYbPGYybT0Vo5boWEhjkG2sGbiBDmEegCf3snjw==",
     "AzureSignalRConnectionString": "<SIGNALR_CONNECTION_STRING>",
     "FUNCTIONS_WORKER_RUNTIME": "node"
   },
